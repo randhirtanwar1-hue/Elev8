@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
-            --primary: #40E0D0; /* Turquoise */
+            --primary: #40E0D0;
             --primary-dark: #20B2AA;
             --primary-light: #AFEEEE;
             --secondary: #333333;
@@ -47,7 +47,6 @@
             top: 0;
             z-index: 1000;
             transition: all 0.3s ease;
-            padding: 0;
         }
         
         .navbar {
