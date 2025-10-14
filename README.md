@@ -47,6 +47,7 @@
             top: 0;
             z-index: 1000;
             transition: all 0.3s ease;
+            padding: 0;
         }
         
         .navbar {
